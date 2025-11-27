@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: CV – Mohamed Amor – Analyste Performance Logistique, Stockage et Distribution F/H
+title: CV – Mohamed Amor
 ---
 # Mohamed AMOR  
-**Analyste Performance Logistique & Contrôle de Gestion Opérationnel**  
+**Supply Chain**  
 +33 (0)6 71 23 35 26 | mohamed.amor@rennes-sb.com | linkedin.com/in/mohamedamor1  
 Campus Voyageurs & Île-de-France – Disponible immédiatement  
 
