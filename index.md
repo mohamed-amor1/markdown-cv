@@ -8,7 +8,7 @@ title: CV – Mohamed Amor – Analyste Performance Logistique, Stockage et Dist
 Campus Voyageurs & Île-de-France – Disponible immédiatement  
 
 <div id="webaddress">
-<a href="mailto:mohamed.amor@rennes-sb.com">mohamed.amor@rennes-sb.com</a> | Mobilité France entière | Déplacements Dijon / Moissy-Cramayel
+<a href="mailto:mohamed.amor@rennes-sb.com">mohamed.amor@rennes-sb.com</a> | Mobilité France entière 
 </div>
 
 ## Actuellement  
