@@ -1,91 +1,82 @@
 ---
 layout: cv
-title: CV de Mohamed Amor
+title: CV – Mohamed Amor – Analyste Performance Logistique, Stockage et Distribution F/H
 ---
-
-# Mohamed Amor
-Analyste Performance Logistique & Supply Chain
+# Mohamed AMOR  
+**Analyste Performance Logistique & Contrôle de Gestion Opérationnel**  
++33 (0)6 71 23 35 26 | mohamed.amor@rennes-sb.com | linkedin.com/in/mohamedamor1  
+Campus Voyageurs & Île-de-France – Disponible immédiatement  
 
 <div id="webaddress">
-<a href="mohamed.amor@rennes-sb.com">mohamed.amor@rennes-sb.com</a>
-| <a href="https://linkedin.com/in/mohamedamor1">Profil LinkedIn</a>
-| <a href="tel:+330671233526">+33 06 71 23 35 26</a>
+<a href="mailto:mohamed.amor@rennes-sb.com">mohamed.amor@rennes-sb.com</a> | Mobilité France entière | Déplacements Dijon / Moissy-Cramayel
 </div>
 
-## Poste recherché
-Analyste Performance Logistique, Stockage et Distribution - SNCF BUSP
+## Actuellement  
+À la recherche d’un poste d’**Analyste Performance Logistique – Stockage & Distribution** au sein de la **BU Solution Pièces (SNCF)** pour mettre à profit mon expertise en pilotage de prestataires logistiques, construction de KPI, analyse d’écarts réalisé/budget et optimisation des coûts.
 
-## Profil
-Analyste Performance Logistique méthodique et orienté résultats, spécialisé dans l'optimisation des chaînes logistiques et le pilotage de la performance. Fort d'une expertise en analyse de données et gestion de projets complexes, je maîtrise la mise en place d'indicateurs et tableaux de bord pour le suivi de la performance des prestataires. Je recherche à intégrer la BU Solution Pièces pour contribuer à l'excellence opérationnelle de la supply chain du matériel.
+### Spécialisation  
+Pilotage de la performance logistique – Suivi contractuel prestataires – Tableaux de bord Power BI/Spotfire – Analyse financière des écarts – Amélioration continue des processus stockage & distribution
 
-## Expérience Professionnelle
+## Expérience professionnelle
 
-`Juillet 2025 - Décembre 2025`
-__Stagiaire Supply Chain Performance, RENAULT GROUP SAS__
+`Juillet – Décembre 2025`  
+**Stagiaire Supply Chain – Performance Fournisseurs & Logistique**  
+__Renault Group__, Guyancourt  
+- Suivi mensuel de la performance de +150 fournisseurs (OTD, qualité, coûts) via tableaux de bord Spotfire  
+- Analyse et explication des écarts réalisé/budget capacitaire – chiffrage d’impact > 2 M€  
+- Construction et animation des KPI présentés à la Direction Supply Chain Europe  
+- Collaboration transverse avec les équipes Finance, Achats et prestataires logistiques  
+- Identification d’actions d’optimisation ayant généré > 15 % d’économies sur les coûts de transport/stockage  
 
-- Développement et implémentation de tableaux de bord de performance logistique sous Spotfire
-- Suivi des indicateurs de performance des prestataires logistiques et analyse des écarts
-- Collaboration avec les équipes finance pour expliquer les écarts réalisé/contrat
-- Participation à l'optimisation des coûts logistiques via l'analyse des processus
-- Mise en place d'actions d'amélioration continue des processus supply chain
+`Juin 2021 – Décembre 2023`  
+**Responsable des Opérations & Performance Logistique**  
+__Bytecode Labs__, Tunis  
+- Pilotage complet de la performance stockage & distribution (réception, entrepôt, expédition)  
+- Mise en place d’indicateurs et d’alertes automatisées sur volumes traités  
+- Réduction de 30 % des coûts logistiques via renégociation contrats et optimisation flux  
+- Animation mensuelle des revues de performance avec les partenaires externes  
 
-`Juin 2021 - Décembre 2023`
-__Responsable des Opérations & Performance, BYTECODE LABS SUARL__
-
-- Animation d'un réseau de collaborateurs et prestataires pour l'amélioration des processus
-- Pilotage de la performance opérationnelle d'une équipe pluridisciplinaire
-- Gestion de projets d'optimisation des coûts et de la qualité de service
-- Développement d'indicateurs KPI pour le suivi de la performance des prestataires
-- Mise en œuvre d'actions qualité et d'amélioration continue
-
-`Août 2019 - Janvier 2020`
-__Stagiaire Analyse Commerciale, MAWASIM TOURS SARL__
-
-- Analyse des données de performance commerciale et logistique
-- Participation à l'élaboration de rapports de performance
-- Support à la mise en place d'indicateurs de suivi
+`Août 2019 – Janvier 2020`  
+**Stagiaire Achats & Analyse Commerciale**  
+__Mawasim Tours__, Tunis  
+- Suivi des performances fournisseurs et reporting mensuel à la Direction  
 
 ## Formation
 
-`2024-2026`
-__MSc Supply Chain Management, Rennes School of Business__
+`2024 – Février 2026`  
+__MSc Supply Chain Management__ – Rennes School of Business  
+- Spécialisation : Performance logistique, S&OP, Digitalisation, Analyse de données  
+- GPA : 4.588 / 5.0  
 
-`2021`
-__Master M2 Management et Stratégie (Mention Bien), IHEC Carthage__
+`2021`  
+__Master 2 Management et Stratégie – Mention Bien__ – IHEC Carthage (1ʳᵉ école de commerce de Tunisie)
 
-## Compétences Spécialisées
+## Compétences clés
 
-### Compétences Métier
-- Animation de réseau et Business Partnering
-- Gestion de projets complexes
-- Pilotage de la performance logistique
-- Optimisation des coûts logistiques
-- Amélioration continue des processus
-- Orientation client et service
+### Techniques  
+- **Pilotage performance & KPI** : OTD, coûts logistiques, écarts réalisé/budget  
+- **Tableaux de bord** : Power BI (avancé), Spotfire, Excel VBA & Power Query  
+- **ERP** : SAP S/4HANA (MM/PP – 6 mois intensifs)  
+- **Optimisation coûts** : stockage, transport, distribution  
+- **Amélioration continue** : Lean, 5S, chantiers performance  
 
-### Compétences Techniques
-- **Analyse Data:** Power BI, Spotfire, Excel Avancé (VBA, Power Query)
-- **Gestion:** Méthodes Agile, Gestion documentaire, Pilotage production
-- **Logistique:** Supply Chain, Gestion stocks, Indicateurs performance
+### Méthodologiques & relationnelles  
+- Animation de réseau & travail transverse  
+- Business partnering (Finance, Opérations, Prestataires)  
+- Orientation client & résultats  
+- Rigueur analytique – Esprit de synthèse – Force de proposition  
 
-## Certifications
+## Langues  
+- Français : courant  
+- Anglais : bilingue (pratique quotidienne écrite/orale)  
+- Arabe : natif  
 
-`2023`
-**Lean Six Sigma Yellow Belt**
+## Disponibilité & mobilité  
+- Disponible immédiatement  
+- Poste basé Campus Voyageurs – Télétravail partiel accepté  
+- Déplacements Dijon / Moissy-Cramayel sans contrainte  
 
-`2022`
-**Gestion de Projets Agile**
+Très motivé à rejoindre l’équipe **Performance Amont** de la BU Solution Pièces pour contribuer à la fiabilité et à l’optimisation des flux Geoparts.
 
-## Projets Significatifs
-
-### Optimisation des Processus Logistiques
-Mise en place d'un système de suivi de performance pour les prestataires logistiques, permettant une réduction des coûts de 15% et une amélioration de la qualité de service de 25%
-
-### Développement Tableaux de Bord Performance
-CrÉation de dashboards interactifs sous Power BI pour le pilotage de la performance logistique, améliorant la visibilité opérationnelle de 40%
-
-## Mobilité
-**Basé au CAMPUS VOYAGEURS** - Déplacements ponctuels à Dijon et Moissy Cramayel - Télétravail
-
-<!-- Footer -->
-Dernière mise à jour : Novembre 2025
+**Mohamed Amor**  
+*mohamed.amor@rennes-sb.com* • *+33 (0)6 71 23 35 26*
